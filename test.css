@@ -1,0 +1,24 @@
+
+
+.clear-button{
+  border:2px solid #871D7F;
+  width:165px;
+  height:105px;
+  margin: 15px;
+  border-bottom-right-radius: 17px;
+}
+
+.container{
+  display: flex;
+}
+
+.result{
+  border: 2px solid #871D7F;
+  font-size:30px;
+  height: 80px;
+}
+
+.input{
+  border:2px solid #479957;
+}
+
